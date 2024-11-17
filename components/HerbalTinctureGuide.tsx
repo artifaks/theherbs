@@ -198,7 +198,7 @@ export default function HerbalTinctureGuide() {
           </CardContent>
         </Card>
 
-        <Alert variant="warning" className="border-amber-300 bg-amber-50 mt-8">
+        <Alert className="border-amber-300 bg-amber-50 mt-8">
           <AlertTriangle className="h-4 w-4 text-amber-600" />
           <AlertTitle className="text-amber-800">Important Health Notice</AlertTitle>
           <AlertDescription className="text-amber-700">
